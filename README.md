@@ -1,1 +1,1 @@
-# space-x-copy created with JavaScript, HTML & CSS
+# SpaceX website copy created with JavaScript, HTML & CSS
